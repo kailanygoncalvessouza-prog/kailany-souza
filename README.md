@@ -1,4 +1,4 @@
-[VÍDEO — LINK DO GOOGLE DRIVE AQUI ANTES DE ENTREGAR] · ⚠️ placeholder: gravar e colar o link nesta linha antes da submissão final (permissão "qualquer pessoa com o link").
+[VÍDEO — https://drive.google.com/drive/folders/1W7idfTImIVPwUNpOtQL10W9Aafju1kYt?usp=drive_link
 
 # Hackathon Jovens Talentos AI Builder 2026 — Seazone
 
