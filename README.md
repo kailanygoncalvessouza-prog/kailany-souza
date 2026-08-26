@@ -37,7 +37,6 @@ analise.ipynb         pipeline completo (join, dedupe, proxy de receita/ocupaç�
 figures/               os 5 gráficos-chave referenciados no relatório
 resumo.csv             tabela de apoio com os 8 segmentos bairro×tipologia elegíveis e todas as métricas
 relatorio.md           recomendação final, posição sobre a tese, limitações
-roteiro_video.md       roteiro falado do vídeo (≤180s), com deixa de qual gráfico/tela mostrar em cada momento
 apoio_visual.html      apoio visual pra gravação — 6 telas sincronizadas com os timestamps do roteiro (uma delas é a linha do tempo com os 9 momentos da investigação), com cronômetro embutido
 ai-log/ai-log.md       conversa completa com a IA (texto integral, sem cortes) usada para chegar na recomendação
 make_charts.py         gera os 5 PNGs de figures/ a partir dos resultados do notebook
